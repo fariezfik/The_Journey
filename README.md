@@ -24,3 +24,6 @@ Feel free to follow along as I **learn, grow, and build**. I’m excited to shar
 
 ---
 Let’s get started on this exciting path to becoming a **skilled back-end developer**. Stay tuned for updates, and don’t hesitate to reach out if you’d like to connect or collaborate!
+
+# 💻 Learn to Code
+I will be using [freeCodeCamp](https://www.freecodecamp.org/) to enhance my programming skills. While I still remember the basics of programming from my studies, I’ve chosen to focus on **Python** as my main programming language for now. Python will serve as the foundation for much of my back-end development work as I continue my learning journey.
